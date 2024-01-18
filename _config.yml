@@ -56,7 +56,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'm000001002@163.com'
+  email: 'mailto:m000001002@163.com'
   github: '//github.com/m000001002'
 
 # Tags 设置标签
