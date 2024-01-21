@@ -20,7 +20,7 @@ nav:
   tags: '/tags.html'
 
 # Footer
-footer:
+footer: m12 All copyright
   since: 2024
 
 # Author 配置博主信息
@@ -37,7 +37,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: ture
+  disqus: false
   disqus_url: 'https://m000001002-github-io.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
